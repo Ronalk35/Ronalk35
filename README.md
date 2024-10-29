@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Acerca de mí:
 ¡Hola y bienvenido a mi perfil de GitHub!<br><br><br>Soy un apasionado programador en mi 6to ciclo en el prestigioso instituto privado Cibertec, ubicado en Lima, Perú. A mis 37 años, he encontrado una profunda pasión en el mundo de las bases de datos, donde destaco y me esfuerzo por ser el mejor. Estoy siempre en busca de nuevas oportunidades para aprender y sobresalir, con un enfoque constante en la excelencia y el crecimiento profesional. ¡Estoy listo para aportar mis habilidades y entusiasmo a proyectos innovadores y desafiantes!<br><br>Gracias por visitar mi perfil. No dudes en contactarme si deseas saber más de mí o tienes alguna propuesta interesante.<br><br><br>¡Saludos!
 
 ## 🌐 Socials:
