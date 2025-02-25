@@ -41,6 +41,7 @@ Hoy, mi objetivo es seguir desarrollándome como un profesional clave en el ámb
 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
+![Credly](https://img.shields.io/badge/Credly-%230077B5.svg?style=for-the-badge&logo=credly&logoColor=white)
 
 # 📊 Estadísticas de GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=Ronalk35&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
