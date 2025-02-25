@@ -46,6 +46,7 @@ Hoy, mi objetivo es seguir desarrollándome como un profesional clave en el ámb
 # :medal_sports: Insignias:
 
 <a href="https://www.credly.com/users/ronald-urbano-chavez/"><img src="https://img.shields.io/badge/Credly-%230077B5.svg?style=plastic&logo=credly&logoColor=white" alt="Credly"/></a>
+<a href="https://credentials.databricks.com/profile/ronaldurbanochavez780520/wallet/"><img src="https://img.shields.io/badge/Databricks-%23FF3621.svg?style=plastic&logo=databricks&logoColor=white" alt="Databricks"/></a>
 
 # 📊 Estadísticas de GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=Ronalk35&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
