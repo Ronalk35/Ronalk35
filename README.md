@@ -43,6 +43,10 @@ Hoy, mi objetivo es seguir desarrollándome como un profesional clave en el ámb
 ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Credly](https://img.shields.io/badge/Credly-%230077B5.svg?style=for-the-badge&logo=credly&logoColor=white)
 
+# :medal_sports: Insignias:
+
+<a href="https://www.credly.com/users/ronald-urbano-chavez/"><img src="https://img.shields.io/badge/Credly-%230077B5.svg?style=plastic&logo=credly&logoColor=white" alt="Credly"/></a>
+
 # 📊 Estadísticas de GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=Ronalk35&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
