@@ -1,4 +1,4 @@
-# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35px></picture> Acerca de mí:
+# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35px></picture>  Acerca de mí:
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> ¡Hola y bienvenido a mi perfil de GitHub!<br><br><br>Profesional en Computación e Informática, egresado del Instituto Cibertec, con sólidos conocimientos en Microsoft SQL Server, Microsoft Excel, análisis de datos, lenguaje de programación Java y desarrollo de software. Poseo una formación integral que combina un profundo entendimiento teórico con una experiencia práctica enfocada en la creación de soluciones tecnológicas innovadoras y de alto impacto.
 
 Durante mi carrera, participé en varios proyectos prácticos que no solo fortalecieron mis competencias técnicas, sino que también me permitieron aplicar conceptos clave en situaciones del mundo real. Esta experiencia me ha proporcionado una visión clara de los desafíos y oportunidades en el campo de la informática.
@@ -43,7 +43,9 @@ Hoy, mi objetivo es seguir desarrollándome como un profesional clave en el ámb
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ronalk35&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ronalk35&theme=tokyonight&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronalk35&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
