@@ -6,8 +6,11 @@ Durante mi carrera, participé en varios proyectos prácticos que no solo fortal
 Hoy, mi objetivo es seguir desarrollándome como un profesional clave en el ámbito de la tecnología, aplicando mis conocimientos en proyectos desafiantes y colaborando en la creación de estrategias que impulsen la transformación digital y la excelencia operativa. Actualmente, me estoy especializando como Data Engineer,<br><br>Gracias por visitar mi perfil. No dudes en contactarme si deseas saber más de mí o tienes alguna propuesta interesante.<br><br><br>¡Saludos!
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ronaldurbanochavez) 
+<a href="https://linkedin.com/in/ronaldurbanochavez/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:sam.ronaldurbano@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://wa.me/+51972512362"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+<a href="https://www.instagram.com/ronaldurbano.chavez/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://github.com/Ronalk35"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 <div align="center">
 
 # 💻 Tech Stack:
