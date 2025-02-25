@@ -7,6 +7,7 @@ Hoy, mi objetivo es seguir desarrollándome como un profesional clave en el ámb
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ronaldurbanochavez) 
+<a href="mailto:sam.ronaldurbano@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <div align="center">
 
 # 💻 Tech Stack:
