@@ -11,6 +11,7 @@ Hoy, mi objetivo es seguir desarrollándome como un profesional clave en el ámb
 <a href="https://wa.me/+51972512362"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 <a href="https://www.instagram.com/ronaldurbano.chavez/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://github.com/Ronalk35"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://ronalk35.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portafolio"/></a>
 <div align="center">
 
 # 💻 Conocimientos Técnicos:
@@ -41,7 +42,7 @@ Hoy, mi objetivo es seguir desarrollándome como un profesional clave en el ámb
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 Estadísticas de GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=Ronalk35&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ronalk35&theme=tokyonight&hide_border=false)<br/>
