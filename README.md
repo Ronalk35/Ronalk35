@@ -48,7 +48,7 @@ Hoy, mi objetivo es seguir desarrollándome como un profesional clave en el ámb
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronalk35&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+### 🔝 Repositorio con mayor contribución
 ![](https://github-contributor-stats.vercel.app/api?username=Ronalk35&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
