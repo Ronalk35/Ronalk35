@@ -3,7 +3,7 @@
 
 Durante mi carrera, participé en varios proyectos prácticos que no solo fortalecieron mis competencias técnicas, sino que también me permitieron aplicar conceptos clave en situaciones del mundo real. Esta experiencia me ha proporcionado una visión clara de los desafíos y oportunidades en el campo de la informática.
 
-Hoy, mi objetivo es seguir desarrollándome como un profesional clave en el ámbito de la tecnología, aplicando mis conocimientos en proyectos desafiantes y colaborando en la creación de estrategias que impulsen la transformación digital y la excelencia operativa.Actualmente, me estoy especializando como Data Engineer<br><br>Gracias por visitar mi perfil. No dudes en contactarme si deseas saber más de mí o tienes alguna propuesta interesante.<br><br><br>¡Saludos!
+Hoy, mi objetivo es seguir desarrollándome como un profesional clave en el ámbito de la tecnología, aplicando mis conocimientos en proyectos desafiantes y colaborando en la creación de estrategias que impulsen la transformación digital y la excelencia operativa. Actualmente, me estoy especializando como Data Engineer,<br><br>Gracias por visitar mi perfil. No dudes en contactarme si deseas saber más de mí o tienes alguna propuesta interesante.<br><br><br>¡Saludos!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ronaldurbanochavez) 
